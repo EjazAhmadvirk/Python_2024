@@ -1,0 +1,67 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Ali Khan",
+      "age": 32,
+      "gender": "Male",
+      "disease": "Diabetes",
+      "phone": "+92-300-1234567",
+      "address": "Lahore, Pakistan"
+    },
+    {
+      "id": 2,
+      "name": "Sara Ahmed",
+      "age": 25,
+      "gender": "Female",
+      "disease": "Asthma",
+      "phone": "+92-301-7654321",
+      "address": "Karachi, Pakistan"
+    },
+    {
+      "id": 3,
+      "name": "Hamza Ali",
+      "age": 40,
+      "gender": "Male",
+      "disease": "Hypertension",
+      "phone": "+92-302-1122334",
+      "address": "Islamabad, Pakistan"
+    },
+    {
+      "id": 4,
+      "name": "Ayesha Malik",
+      "age": 29,
+      "gender": "Female",
+      "disease": "Migraine",
+      "phone": "+92-303-5566778",
+      "address": "Faisalabad, Pakistan"
+    },
+    {
+      "id": 5,
+      "name": "Bilal Hussain",
+      "age": 36,
+      "gender": "Male",
+      "disease": "Heart Disease",
+      "phone": "+92-304-9988776",
+      "address": "Rawalpindi, Pakistan"
+    },
+    {
+      "id": 6,
+      "name": "Fatima Noor",
+      "age": 22,
+      "gender": "Female",
+      "disease": "Anemia",
+      "phone": "+92-305-4433221",
+      "address": "Multan, Pakistan"
+    },
+    {
+      "id": 7,
+      "name": "Usman Tariq",
+      "age": 50,
+      "gender": "Male",
+      "disease": "Arthritis",
+      "phone": "+92-306-8877665",
+      "address": "Peshawar, Pakistan"
+    }
+  ]
+}
